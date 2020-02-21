@@ -1,6 +1,6 @@
 {
   "name": "@lkuechler/artifactory-limit-test",
-  "version": "93.0.0",
+  "version": "94.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

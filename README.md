@@ -11,3 +11,7 @@ But if you get the releases with npm or yarn you will get the last 100 versions.
 `npm info @lkuechler/artifactory-limit-test versions`
 
 The versions 1.0.0 to 5.0.0 can not be reached anymore. They can also not be installed when they are mentioned in a package.json
+
+## Update
+
+Github now allows accessing of all the artifacts.
